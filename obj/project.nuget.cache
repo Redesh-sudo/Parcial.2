@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "AoiKNa12zqk1OxhR+VaiVU40dGpCWOVyqhfICgO42oCGqP7T1C8XgIc01XJmsi7cpPs2w7zoM5zrZXMti9gw2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danto\\source\\repos\\Parcial.2\\Parcial.2\\Parcial.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danto\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

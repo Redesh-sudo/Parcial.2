@@ -1,0 +1,14 @@
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\bin\Debug\net8.0\Parcial.2.exe
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\bin\Debug\net8.0\Parcial.2.deps.json
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\bin\Debug\net8.0\Parcial.2.runtimeconfig.json
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\bin\Debug\net8.0\Parcial.2.dll
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\bin\Debug\net8.0\Parcial.2.pdb
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\Parcial.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\Parcial.2.AssemblyInfoInputs.cache
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\Parcial.2.AssemblyInfo.cs
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\Parcial.2.csproj.CoreCompileInputs.cache
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\Parcial.2.dll
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\refint\Parcial.2.dll
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\Parcial.2.pdb
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\Parcial.2.genruntimeconfig.cache
+C:\Users\danto\source\repos\Parcial.2\Parcial.2\obj\Debug\net8.0\ref\Parcial.2.dll
